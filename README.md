@@ -32,11 +32,11 @@ persistence.
         
 # How to Run
         
-1. Open project folder in VS Code.
+1. Open the project folder in VS Code.
 2. Compile all files:
    AssignmentTracker.java   Assignment.java
 3. Run the program:
-   java AssignmentTracker
+   javac AssignmentTracker
 
 ## Future Improvements (v3)
 - GUI version (JavaFX)
