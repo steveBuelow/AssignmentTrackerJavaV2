@@ -1,13 +1,13 @@
 *******************************************************************************
 
-## Assignment Tracker v2 (Java CLI)
+# Assignment Tracker v2 (Java CLI)
 
 A command-line assignment manager built in Java to help users organize, 
 prioritize, and track coursework. Data is saved between sessions using file
 persistence.
 
 
-# Key Features
+## Key Features
 
 - Add, view, edit, and remove assignments
 - Mark assignments as complete
@@ -16,7 +16,7 @@ persistence.
 - Sort by priority or due date
 - Persistent storage using file I/O (auto-save/load)
 
-# Concepts Demonstrated
+## Concepts Demonstrated
 - Object-Oriented Programming(encapsulation, classes, mutable objects)
 - Collections (ArrayList) for dynamic data storage
 - Sorting with Collections.sort() for dynamic data storage
@@ -24,13 +24,13 @@ persistence.
 - File I/O using BufferedReader and BufferedWriter
 - Input validation with try-catch (prevents crashes)
 
-# Tech used
+## Tech used
 
 - Java (core libraries)
 - ArrayList, Collections, Enums
 - File I/O (BufferedReader, BufferedWriter)
         
-## How to Run
+# How to Run
         
 1. Open project folder in VS Code.
 2. Compile all files:
